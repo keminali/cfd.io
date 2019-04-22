@@ -37,9 +37,7 @@ requirement: GCI < 5%
 
 **Definitions:**
 
-\[
-r_{ij} = h_i/h_j
-\]
+\[ r_{ij} = h_i/h_j \]
 
 -   r: grid refinement ratio,
 -   h: grid spacing
